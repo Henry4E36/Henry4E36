@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--Tools : https://www.t00ls.net/members-profile-13795.html
+- Tools : https://www.t00ls.net/members-profile-13795.html
 
 - freebuf: https://www.freebuf.com/author/Henry4E36
 
