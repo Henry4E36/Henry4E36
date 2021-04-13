@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📺 Tools Henry: https://www.t00ls.net/members-profile-13795.html
+-Tools : https://www.t00ls.net/members-profile-13795.html
 
-- 🛫 freebuf: https://www.freebuf.com/author/Henry4E36
+- freebuf: https://www.freebuf.com/author/Henry4E36
 
-- 🐧 My Github:
+- My Github:
 
 ![Henry4E36's github stats](https://github-readme-stats.vercel.app/api?username=Henry4E36&show_icons=true&theme=radical)
 
