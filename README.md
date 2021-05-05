@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 - freebuf: https://www.freebuf.com/author/Henry4E36
 
+- 微信订阅号: Sec Henry
+
+- WeChat: One-Wasai-Boy
+
 - My Github:
 
 ![Henry4E36's github stats](https://github-readme-stats.vercel.app/api?username=Henry4E36&show_icons=true&theme=radical)
