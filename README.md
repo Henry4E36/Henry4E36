@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - freebuf: https://www.freebuf.com/author/Henry4E36
 
-- 微信订阅号: Sec Henry
+- 微信订阅号: 且说安全
 
 - WeChat: One-Wasai-Boy
 
