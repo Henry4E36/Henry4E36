@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 微信订阅号: 才疏学浅的H6
 
-- WeChat: One-Wasai-Boy
+- WeChat: Zero-Henry4E36
 
 - My Github:
 
